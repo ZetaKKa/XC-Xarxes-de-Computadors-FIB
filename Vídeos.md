@@ -1,5 +1,5 @@
 # VÍDEOS  
-(ESP) Espanolo  
+(CAT) Català  
 IP-1: https://youtu.be/lw8tITa5Cd8    (Adreçament IP)  
 IP-2: https://youtu.be/lgHit1Io54Y     (Subxarxes IP)  
 IP-3: https://youtu.be/TiLpbNlYz3o   (Talues d'encaminament)  
